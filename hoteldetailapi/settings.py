@@ -87,12 +87,12 @@ CORS_ALLOWED_ORIGINS = [
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'apihotel', 
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': '127.0.0.1', 
-        'PORT': '5432',
+        'PASSWORD': 'G45146bA6Ee*4-Febe*eg3eg65b6Bgd-',
+        'HOST' : 'roundhouse.proxy.rlwy.net',
+        'PORT': '50300'
     }
 }
 
